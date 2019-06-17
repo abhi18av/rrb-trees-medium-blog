@@ -1,14 +1,20 @@
 # rrb-trees-medium-blog
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure project designed to the usage and performance of RRB-Trees and how it complements the native clojure implementation of `Persistent Vectors`.
 
-## Usage
+# Immutable Data Structures - RRB Trees
+This repo is meant to accompany the Medium article on [Immutable Data Structures - RRB Trees (Part-1)](https://medium.com/p/177a986950ec/).
 
-FIXME
+The original research paper has been included in the `./resources/` folder in this repository.
+
+
+# TODO
+- Add benchmarks using the `criterium` library for difference in performance.
+- Publish a video walk-through on the `One Step Clojure` YouTube channel.
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 abhi18av
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
