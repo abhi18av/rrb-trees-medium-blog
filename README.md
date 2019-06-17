@@ -8,9 +8,15 @@ This repo is meant to accompany the Medium article on [Immutable Data Structures
 The original research paper has been included in the `./resources/` folder in this repository.
 
 
+# NOTE
+
+- Cljdoc for `core.rrb-vector` API
+https://cljdoc.org/d/macroz/core.rrb-vector/0.0.14.1/api/clojure.core
+
 # TODO
 - Add benchmarks using the `criterium` library for difference in performance.
 - Publish a video walk-through on the `One Step Clojure` YouTube channel.
+
 
 ## License
 
