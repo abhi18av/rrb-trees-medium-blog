@@ -10,8 +10,19 @@ The original research paper has been included in the `./resources/` folder in th
 
 # NOTE
 
-- Cljdoc for `core.rrb-vector` API
+Cljdoc for 
+
+- `clojure-1.10.1`
+https://clojure.github.io/clojure/
+
+-`core.rrb-vector` 
 https://cljdoc.org/d/macroz/core.rrb-vector/0.0.14.1/api/clojure.core
+
+- `criterium`
+https://cljdoc.org/d/criterium/criterium/0.4.5/doc/readme
+
+`annotated-source-code`
+http://hugoduncan.org/criterium/0.4/uberdoc.html
 
 # TODO
 - Add benchmarks using the `criterium` library for difference in performance.
